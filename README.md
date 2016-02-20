@@ -1,7 +1,4 @@
 # collabo
-<<<<<<< HEAD
 
-* 이형진
-=======
+* leehyungjin
 * kimjunghak
->>>>>>> origin/master
